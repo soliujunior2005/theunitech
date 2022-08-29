@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(./youtube\ image/haunt3r2.jpg);
+    height: 100vh;
+    background-size: cover;
+    font-family: sans-serif; 
+    margin-left: 20px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: arial;
+    font-weight: bolder;
+}
+
+h3 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p {
+    text-transform: uppercase;
+}
+
+p9 {
+    text-transform: capitalize;
+}
